@@ -18,7 +18,7 @@ public:
 
     bool is_boiling()
     {
-        if (temperature &gt;= 100) return true;
+        if (temperature >= 100) return true;
         else return false;
     }
 };
@@ -33,7 +33,7 @@ public:
         water = Water();
     }
 
-    Teapot(Water&amp; w) // конструктор, принимающий аргумент типа Water&amp;
+    Teapot(Water& w) // конструктор, принимающий аргумент типа Water&amp;
     {
         water = w;
     }
