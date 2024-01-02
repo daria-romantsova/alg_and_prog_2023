@@ -5,15 +5,15 @@ public:
     bool isOpen;
     Cat()
     {
-        this-&gt;isAlive = rand() % 2;
-        this-&gt;isOpen = false;
+        this->isAlive = rand() % 2;
+        this->isOpen = false;
     }
 
     bool is_alive()
     {
-        if (this-&gt;isOpen)
+        if (this->isOpen)
         {
-            return this-&gt;isAlive;
+            return this->isAlive;
         }
         else
         {
