@@ -2,7 +2,7 @@
 
 Автор: Романцова Дарья
 
-|[Контест 1]([https://contest.yandex.ru/contest/52142/problems/](https://contest.yandex.ru/contest/52142/problems/)) |  |
+|[Контест 1](https://contest.yandex.ru/contest/52142/problems/) |  |
 | --- | :-: |
 | [1. Приближенное значение Пи](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Кислород](./contest_01/02/main.go) |  ![](./img/go.png) |
@@ -25,8 +25,47 @@
 | [19. Подходящие слова](./contest_01/19/main.cpp) | ![](./img/cpp.png) |
 | [20. Анаграмма. 2 числа](./contest_01/20/main.cpp) | ![](./img/cpp.png) |
 
-|[Контест 2]([https://contest.yandex.ru/contest/52676/problems/](https://contest.yandex.ru/contest/52676/problems/)) |  |
+|[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
 | --- | :-: |
 | [1. Функция. Простое число](./contest_02/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Функция. Выход из лабиринта](./contest_02/02/main.cpp) |  ![](./img/cpp.png) |
 | [3. Функция. Сортировка по количеству единиц](./contest_02/03/main.cpp) | ![](./img/cpp.png) |
+| [4. Функция. Сумма дробей](./contest_02/04/main.cpp) | ![](./img/cpp.png) |
+| [6. Список студентов](./contest_02/06/main.cpp) | ![](./img/cpp.png) |
+| [7. Кандидаты на отчисление](./contest_02/07/main.cpp) | ![](./img/cpp.png) |
+| [8. Функция. Палиндром с игнорированием](./contest_02/08/main.go) | ![](./img/go.png) |
+| [9. Функция. Счастливый билет](./contest_02/09/main.go) | ![](./img/go.png) |
+
+|[Контест 3](https://contest.yandex.ru/contest/53504/problems/) |  |
+| --- | :-: |
+| [1. Объединить отсортированные последовательности](./contest_03/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Валидатор скобочной последовательности](./contest_03/02/main.cpp) | ![](./img/cpp.png) |
+| [3. Обратная польская нотация](./contest_03/03/main.cpp) | ![](./img/cpp.png) |
+| [4. Общие слова в последовательностях](./contest_03/04/main.cpp) | ![](./img/cpp.png) |
+| [5. Самое частое слово](./contest_03/05/main.cpp) | ![](./img/cpp.png) |
+| [6. Баланс пользователя](./contest_03/06/main.cpp) | ![](./img/cpp.png) |
+| [7. Какое следующее слово](./contest_03/07/main.cpp) | ![](./img/cpp.png) |
+| [8. Уникальное число](./contest_03/08/main.go) | ![](./img/go.png) |
+| [9. Подходящая пара чисел](./contest_03/09/main.go) | ![](./img/go.png) |
+
+|[Контест 5](https://contest.yandex.ru/contest/55465/problems/) |  |
+| --- | :-: |
+| [1. Get a cat](./contest_05/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Чайник](./contest_05/02/main.cpp) | ![](./img/cpp.png) |
+| [3. Класс. Комплексное число](./contest_05/03/main.cpp) | ![](./img/cpp.png) |
+| [4. Класс. Point](./contest_05/04/main.cpp) | ![](./img/cpp.png) |
+| [6. Get a cat](./contest_05/06/main.go) | ![](./img/go.png) |
+| [7. Класс. Чайник](./contest_05/07/main.go) | ![](./img/go.png) |
+
+|[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
+| --- | :-: |
+| [1. Класс. RunnableСlock](./contest_07/01/main.cpp) | ![](./img/cpp.png) |
+
+|[Контест 8](https://contest.yandex.ru/contest/57296/problems/) |  |
+| --- | :-: |
+| [1. Никаких секретов](./contest_08/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Уроборос](./contest_08/02/main.cpp) | ![](./img/cpp.png) |
+| [3. 1D массив + функции](./contest_08/03/main.cpp) | ![](./img/cpp.png) |
+| [4. 2D массив + функции](./contest_08/04/main.cpp) | ![](./img/cpp.png) |
+| [5. IntSharedPointer](./contest_08/05/main.cpp) | ![](./img/cpp.png) |
+| [6. Класс Any](./contest_08/06/main.cpp) | ![](./img/cpp.png) |
